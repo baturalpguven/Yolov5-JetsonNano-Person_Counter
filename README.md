@@ -1,5 +1,5 @@
 
-# @ title Yolov5-JetsonNano-Person_Counter
+# Yolov5-JetsonNano-Person_Counter
 
 In this project an object detection algorithm Yolov5 was used with Jetson Nano to keep track how many people are inside of the boundry so that # people can be known and certain precautions can be taken for COVID19 measurments. The # of people stored on a local server . If the # people inside of the boundrie is more than the expectation  the LED that is connected to Jetson NANO lights up.
 
