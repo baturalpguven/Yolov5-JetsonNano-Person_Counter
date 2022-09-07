@@ -10,7 +10,7 @@ In this project an object detection algorithm Yolov5 was used with Jetson Nano t
 
 
 
-The code to run is detect.py to detect the # of people
+Run detect.py to detect the # of people. All the significant changes made in that script. To run the original code go to the original repo. Details given below.
 
 
 
