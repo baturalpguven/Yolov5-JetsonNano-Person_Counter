@@ -3,6 +3,13 @@
 
 In this project an object detection algorithm Yolov5 was used with Jetson Nano to keep track how many people are inside of the boundry so that # people can be known and certain precautions can be taken for COVID19 measurments. The # of people stored on a local server . If the # people inside of the boundrie is more than the expectation  the LED that is connected to Jetson NANO lights up.
 
+
+<p align="center">
+  <a href="https://youtu.be/-uRSIqbaT5I">
+    <img src="[https://img.youtube.com/vi/-uRSIqbaT5I/0.jpg](https://user-images.githubusercontent.com/77858949/185241464-64d53554-5702-4360-a94b-758b3d50b364.png" alt="Thumbnail">
+    <img src="[https://user-images.githubusercontent.com/77858949/185241516-50a5416d-886b-4780-87fc-678ee1082fb7.png" alt="Thumbnail">
+  </a>
+</p>
 ![image](https://user-images.githubusercontent.com/77858949/185241464-64d53554-5702-4360-a94b-758b3d50b364.png) ![image](https://user-images.githubusercontent.com/77858949/185241516-50a5416d-886b-4780-87fc-678ee1082fb7.png)
 
 
