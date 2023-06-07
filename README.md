@@ -5,10 +5,11 @@ In this project an object detection algorithm Yolov5 was used with Jetson Nano t
 
 
 <div align="center">
-<p>
-![image](https://user-images.githubusercontent.com/77858949/185241464-64d53554-5702-4360-a94b-758b3d50b364.png) 
-![image](https://user-images.githubusercontent.com/77858949/185241516-50a5416d-886b-4780-87fc-678ee1082fb7.png)
-</p>  
+  <div style="display: flex; justify-content: center;">
+    <img src="https://user-images.githubusercontent.com/77858949/185241464-64d53554-5702-4360-a94b-758b3d50b364.png" alt="Image 1" style="height: 200px; margin-right: 10px;">
+    <img src="https://user-images.githubusercontent.com/77858949/185241516-50a5416d-886b-4780-87fc-678ee1082fb7.png" alt="Image 2" style="height: 200px; margin-left: 10px;">
+  </div>
+</div>
 
 
 
