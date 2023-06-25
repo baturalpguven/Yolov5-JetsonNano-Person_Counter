@@ -15,7 +15,7 @@ In this project an object detection algorithm Yolov5 was used with Jetson Nano t
 
 Run detect.py to detect the number of people. All the significant changes made in that script. To run the original code go to the original repo. Details of the model are given below:
 
-###################################################################################################
+___________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
 
